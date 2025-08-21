@@ -23,5 +23,4 @@ Bu layihə film sənayesini analiz etmək üçün hazırladığım **Power BI** 
 
 
 
----
-*Author: M R — Data Analytics | Power BI*
+
